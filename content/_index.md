@@ -16,9 +16,9 @@ sections:
       filters:
         folders:
           - publication
-      design:
-        columns: '1'
-        view: citation
+    design:
+      columns: '1'
+      view: citation
   - block: portfolio
     id: paper
     content:
@@ -26,9 +26,9 @@ sections:
     filters:
         folders:
           - paper
-      design:
-        columns: '1'
-        view: compact
+    design:
+      columns: '1'
+      view: compact
   - block: portfolio
     id: project
     content:
@@ -36,7 +36,7 @@ sections:
       filters:
         folders:
           - project
-    design:
-      columns: '1'
-      view: list
+   design:
+    columns: '1'
+    view: list
 ---
