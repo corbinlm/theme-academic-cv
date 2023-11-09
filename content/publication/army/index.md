@@ -6,7 +6,7 @@ summary: ""
 authors: ["Kyle Greenberg", "Matthew Gudgeon", "Adam Isen", admin, "Richard Patterson"]
 tags: ["Military Service", "Regression Discontinuity", "Administrative Data", "Labor Market Returns"]
 categories: ["Public Finance", "Labor"]
-date: 2020-12-15 09:04:42 -0500
+date: 2022-11-01 09:04:42 -0500
 
 publication_types: 
 publication: "_Quarterly Journal of Economics_, 2022"
