@@ -7,7 +7,7 @@ sections:
   - block: about.biography
     id: home
     content:
-      title: 'Home'
+      title: ''
       username: admin
   - block: portfolio
     id: publication
