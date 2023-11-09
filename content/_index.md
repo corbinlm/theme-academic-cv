@@ -5,9 +5,9 @@ type: landing
 
 sections:
   - block: about.biography
-    id: about
+    id: home
     content:
-      title: ''
+      title: 'Home'
       username: admin
   - block: portfolio
     id: publication
