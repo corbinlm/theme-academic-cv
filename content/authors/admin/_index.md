@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Corbin Miller, PhD
+title: Corbin Miller
 
 # Name pronunciation (optional)
 # name_pronunciation: 
