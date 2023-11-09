@@ -6,10 +6,10 @@ summary: ""
 authors: ["Ithai Lurie", admin]
 tags: ["Health Insurance", "Administrative Data", "Tax Data", "Premiums", "Employer-Sponsored Health Insurance", "Inequality"]
 categories: ["Public Finance", "Health"]
-date: 2019-08-10T16:04:42-04:00
+date: 2023-08-01T16:04:42-04:00
 
 publication_types: 
-publication: "_Conditionally Accepted, Journal of Public Economics_"
+publication: "_Journal of Public Economics_, 2023"
 abstract: "We explore how teachers unions affect education production by comparing outcomes between districts allocating new tax revenue amidst collective bargaining negotiations and districts allocating tax revenue well before. Districts facing union pressure increase teacher salaries and benefits, spend down reserves, and experience no student achievement gains. Conversely, districts facing less pressure hire more teachers (instead of increasing compensation) and realize significant student achievement gains. We interpret these results as causal evidence of the negative impact of teacher rent seeking on education production, as the timing of district tax elections relative to collective bargaining appears to be as good as random."
 
 # Optional external URL for project (replaces project detail page).
