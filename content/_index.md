@@ -1,7 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2023-11-08
 type: landing
 
 sections:
@@ -11,33 +10,33 @@ sections:
       title: ''
       username: admin
   - block: portfolio
-      id: publication
-      content:
-        title: Journal Articles
-        filters:
-          folders:
-            - publication
-        design:
-          columns: '1'
-          view: citation
-  - block: portfolio
-      id: paper
-      content:
-        title: Working Papers
+    id: publication
+    content:
+      title: Journal Articles
       filters:
-          folders:
-            - paper
-        design:
-          columns: '1'
-          view: compact
-  - block: portfolio
-      id: project
-      content:
-        title: Works in Progress
-        filters:
-          folders:
-            - project
+        folders:
+          - publication
       design:
         columns: '1'
-        view: list
+        view: citation
+  - block: portfolio
+    id: paper
+    content:
+      title: Working Papers
+    filters:
+        folders:
+          - paper
+      design:
+        columns: '1'
+        view: compact
+  - block: portfolio
+    id: project
+    content:
+      title: Works in Progress
+      filters:
+        folders:
+          - project
+    design:
+      columns: '1'
+      view: list
 ---
