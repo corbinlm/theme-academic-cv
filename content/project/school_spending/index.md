@@ -3,7 +3,7 @@
 
 title: "Does School Spending Pay For Itself? Long-run Effects on Personal Income"
 summary: ""
-authors: ["Ben Klemens","John Klopfer",admin]
+authors: ["John Klopfer",admin]
 tags: ["Education Finance","Long-run Outcomes","Administrative Data","Tax Data","School Finance Reform","Labor Market Returns"]
 categories: ["Public Finance","Education"]
 date: 2019-08-09T16:40:48-04:00
