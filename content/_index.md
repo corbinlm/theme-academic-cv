@@ -4,26 +4,26 @@ title: ""
 type: landing
 
 sections:
-	- block: about.biography
-		id: home
-		content:
-			title: 'Home'
-			username: admin
-	- block: portfolio
-		id: publication
-		content:
-			title: Journal Articles
-			filters:
-				folders:
-					- publication
-			design:
-			columns: '1'
-			view: citation
-	- block: portfolio
-		id: paper
-		content:
-			title: Working Papers
-			filters:
+  - block: about.biography
+    id: home
+    content:
+      title: 'Home'
+      username: admin
+  - block: portfolio
+    id: publication
+    content:
+      title: Journal Articles
+      filters:
+        folders:
+          - publication
+    design:
+      columns: '1'
+      view: citation
+  - block: portfolio
+    id: paper
+    content:
+      title: Working Papers
+      filters:
         folders:
           - paper
     design:
@@ -36,7 +36,7 @@ sections:
       filters:
         folders:
           - project
-		design:
-			columns: '1'
-			view: list
+    design:
+      columns: '1'
+      view: list
 ---
